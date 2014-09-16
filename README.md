@@ -3,10 +3,6 @@ rack-smart-app-banner
 
 **Rack middleware to automatically include code for Smart App Banner, introduced in iOS 6**
 
-![Smart App Banner Example](http://cl.ly/image/1K0W2F050a0h/smartappbanner.png)
-
-
-
 According to the ["Promoting Apps with Smart App Banners"](https://developer.apple.com/library/safari/#documentation/AppleApplications/Reference/SafariWebContent/PromotingAppswithAppBanners/PromotingAppswithAppBanners.html) section of the [Safari Web Content Guide](https://developer.apple.com/library/safari/#documentation/AppleApplications/Reference/SafariWebContent/Introduction/Introduction.html#//apple_ref/doc/uid/TP40002051-CH1-SW1):
 
 > Smart App Banners vastly improve users’ browsing experience compared to other promotional methods. ... [Users] will appreciate that banners are presented unobtrusively at the top of a webpage, instead of as a full-screen ad interrupting the web content. And with a large and prominent close button, a banner is easy for users to dismiss.
