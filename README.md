@@ -2,6 +2,10 @@
 
 **Rack middleware to automatically include code for Smart App Banners on iOS**
 
+> This project is no longer maintained.
+
+---
+
 > Make it easy for users to discover and download your app from a website on iOS.
 > With Safari’s Smart App Banner
 > you can display a banner that provides a direct link to your app on the App Store,
